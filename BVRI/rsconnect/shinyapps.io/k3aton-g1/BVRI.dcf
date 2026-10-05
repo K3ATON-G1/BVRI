@@ -1,0 +1,12 @@
+name: BVRI
+title: BVRI
+username: k3aton-g1
+account: k3aton-g1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 18094162
+bundleId: 12650286
+url: https://k3aton-g1.shinyapps.io/BVRI/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
