@@ -1510,7 +1510,7 @@ server <- function(input, output, session) {
   })
   
   output$updated <- renderText({
-    paste("CSV updated:", initial_data$updated)
+    paste("Updated:", initial_data$updated)
   })
   
   output$property_list <- renderUI({
